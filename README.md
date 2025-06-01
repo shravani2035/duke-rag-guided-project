@@ -1,5 +1,7 @@
 # This repository is forked from Alfredo Deza as part of a guided project
 
+\n
+
 # Introduction to Retrieval Augmented Generation
 
 This repository will introduce you to Retrieval Augmented Generation (RAG) with
