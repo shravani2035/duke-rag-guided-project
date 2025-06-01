@@ -1,6 +1,5 @@
-# This repository is forked from Alfredo Deza as part of a guided project
+_This repository is forked from Alfredo Deza as part of a guided project_
 
-\n
 
 # Introduction to Retrieval Augmented Generation
 
