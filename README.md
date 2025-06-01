@@ -1,4 +1,4 @@
-# This repository is forked from Alfredo Deza as part of an online guided project course
+# This repository is forked from Alfredo Deza as part of a guided project
 
 # Introduction to Retrieval Augmented Generation
 
